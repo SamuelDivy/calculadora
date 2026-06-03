@@ -2,7 +2,7 @@
 
 int main() {
     float num1, num2;
-    int opcao;
+    int opcao
 
     printf("=== CALCULADORA ===\n");
     printf("1 - Soma\n");
